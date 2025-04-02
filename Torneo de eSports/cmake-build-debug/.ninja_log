@@ -1,0 +1,7 @@
+# ninja log v6
+2	268	7653105649920362	build.ninja	e94973a839b1b70d
+4	812	7653096502523731	CMakeFiles/untitled.dir/main.cpp.obj	8fd8f61cc7d0640d
+11	1548	7653095069609571	CMakeFiles/untitled.dir/src/Jugador.cpp.obj	bc8d92b84ba4004
+6	1549	7653095069563007	CMakeFiles/untitled.dir/src/Videojuego.cpp.obj	4fe3b5942f18e14f
+16	1791	7653095069662192	CMakeFiles/untitled.dir/src/Torneo.cpp.obj	438608b1195253b7
+813	984	7653096510599538	untitled.exe	8de8da09fa41ebe3
