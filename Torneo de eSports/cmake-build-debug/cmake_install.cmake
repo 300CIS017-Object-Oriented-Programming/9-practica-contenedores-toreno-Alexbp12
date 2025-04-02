@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled
+# Install script for directory: C:/Users/alexb/OneDrive/Desktop/Proyecto poo/Torneo Videojuego/9-practica-contenedores-toreno-Alexbp12/Torneo de eSports
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/Torneo Videojuego/9-practica-contenedores-toreno-Alexbp12/Torneo de eSports/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

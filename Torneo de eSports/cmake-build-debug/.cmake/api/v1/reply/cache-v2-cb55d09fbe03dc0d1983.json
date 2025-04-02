@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled/cmake-build-debug"
+			"value" : "c:/Users/alexb/OneDrive/Desktop/Proyecto poo/Torneo Videojuego/9-practica-contenedores-toreno-Alexbp12/Torneo de eSports/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/Torneo Videojuego/9-practica-contenedores-toreno-Alexbp12/Torneo de eSports/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled"
+			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/Torneo Videojuego/9-practica-contenedores-toreno-Alexbp12/Torneo de eSports"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2024.3.2/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1282,42 +1282,6 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "torneo_videojuegos_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled/cmake-build-debug"
-		},
-		{
-			"name" : "torneo_videojuegos_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "torneo_videojuegos_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled"
-		},
-		{
 			"name" : "untitled_BINARY_DIR",
 			"properties" : 
 			[
@@ -1327,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled/cmake-build-debug"
+			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/Torneo Videojuego/9-practica-contenedores-toreno-Alexbp12/Torneo de eSports/cmake-build-debug"
 		},
 		{
 			"name" : "untitled_IS_TOP_LEVEL",
@@ -1351,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/untitled"
+			"value" : "C:/Users/alexb/OneDrive/Desktop/Proyecto poo/Torneo Videojuego/9-practica-contenedores-toreno-Alexbp12/Torneo de eSports"
 		}
 	],
 	"kind" : "cache",
